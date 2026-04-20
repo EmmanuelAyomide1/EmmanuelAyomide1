@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hi 👋, I'm Owoeye Emmanuel</h1>
-<h3 align="left">A passionate Backend Specialist and fullstack developer from Nigeria 🇳🇬</h3>
+<h3 align="left">A Backend Specialist and fullstack developer from Nigeria 🇳🇬</h3>
 
 - 💪 I'm a strong backend developer
 - 🌱 I’m currently depening my expertise in Reactjs
