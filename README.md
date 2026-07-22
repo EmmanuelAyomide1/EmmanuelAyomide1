@@ -13,21 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi 👋, I'm Owoeye Emmanuel</h1>
-<h3 align="left">A Backend Specialist and fullstack developer from Nigeria 🇳🇬</h3>
+<h1 align="center">Hi 👋, I'm Owoeye Emmanuel</h1>
+<h2 align="left">📝 About Me</h2>
 
-- 💪 I'm a strong backend developer
-- 🌱 I’m currently depening my expertise in Reactjs
+- 🏆 Full Stack Mobile, Desktop and Web Developer
+- 💪 Strong Expertise in Backend Development Automations, DevOps, and System Design.
+- ⚒️ Wide range of experience from **Python, Django, FastAPI, NestJS, React, React Native, PostgreSQL, MySQL, MongoDB, Docker, Kubernetes** and more.
+- 🎯 Aiming to leverage my skills in full stack development and DevOps to build scalable and efficient solutions.
 - 📫 How to reach me **owoeyeemmanuel206@gmail.com**
+
+<h2 align="left">🛠 Tech Stack</h2>
+
+- **Cloud Platforms**: AWS, Azure, GCP, DigitalOcean
+- **CI/CD Tools**: Jenkins, GitLab, GitHub Actions
+- **Containers & Orchestration**: Docker, Kubernetes
+- **Security & Compliance**: DevSecOps, Infrastructure security, IAM, Security Automation
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Datadog
+- **Version Control**: Git, GitHub
+- **Scripting & Programming**: Python, Bash, PowerShell, JavaScript
+- **Networking & Security**: VPN, Firewalls, Zero Trust Architecture
 
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/emmanuel-owoeye-7759872b9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="66" height="40" alt="linkedin logo"  />
+    <img src="https://camo.githubusercontent.com/001e7c1208607ee80e3312e50ab901a71a2a16af693e1367b605d720bbe9b79d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" width="80" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/emmyayo3" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="66" height="40" alt="twitter logo"  />
+    <img src="https://camo.githubusercontent.com/9ebce40b5dc8ca37584b018fd5b5941319d135117ef1fb2330f4aa95877e79f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" width="80" height="30" alt="twitter logo"  />
   </a>
 </div>
 <h3 align="left">Languages and Tools:</h3>
